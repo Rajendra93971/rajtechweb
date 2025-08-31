@@ -1,12 +1,31 @@
-# React + Vite
+# RajTechWeb 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RajTechWeb is a modern and responsive web application crafted to deliver seamless user experiences.  
+Built with cutting-edge web technologies, this project showcases a clean UI, efficient performance, and scalable architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
+- Fully responsive design 📱💻
+- Modern UI with intuitive navigation
+- Dynamic content rendering
+- Optimized for speed and performance
+- Scalable codebase for future enhancements
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, ReactJS  
+
+- **Database:** MongoDB / MySQL (based on your setup)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📂 Project Structure
+```bash
+RajTechWeb/
+│── frontend/       # ReactJS frontend code
+│── public/         # Static assets
+│── package.json    # Project dependencies
+│── README.md       # Project documentation
