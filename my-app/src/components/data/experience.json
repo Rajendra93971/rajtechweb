@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "role": "MERN Stack Developer",
+    "organisation": "Averoft",
+    "startDate": "Aug, 2025 - ",
+    "endDate": "Present",
+    "location": "Bhopal, India",
+    "experiences": [
+      "Worked on MERN Stack Web Development Projects ",
+      "Built features and fixed bugs while understanding end-to-end workflows"
+    ],
+    "imageSrc": "company/averoft.png"
+  },
+  {
+    "id": 2,
+    "role": "Customer Support",
+    "organisation": "TechnoTask",
+    "startDate": "May, 2025 - ",
+    "endDate": "Jul, 2025",
+    "location": "Bhopal, India",
+    "experiences": [
+      "Gained hands-on experience in customer support, understanding backend processes and workflows",
+      "Enhanced communication and product knowledge through direct user interaction"
+    ],
+    "imageSrc": "company/technotask.png"
+  },
+  {
+    "id": 3,
+    "role": "Freelance Developer",
+    "organisation": "Self-Employed",
+    "startDate": "Jan, 2024 - ",
+    "endDate": "Present",
+    "location": "All India & Remote",
+    "experiences": [
+      "Full-stack web apps delivery (frontend + backend)",
+      "iOS/mobile app work and UI/UX design for clients"
+    ],
+    "imageSrc": "company/freelance.png"
+  },
+  {
+    "id": 4,
+    "role": "Digital Marketing & Advertising",
+    "organisation": "Self-Employed",
+    "startDate": "Jan, 2025 - ",
+    "endDate": "Present",
+    "location": "All India & Remote",
+    "experiences": [
+      "SEO, Social Media Marketing, Videos and advertising",
+      "Content strategy, and creatives to grow brand reach"
+    ],
+    "imageSrc": "company/marketing.png"
+  }
+]

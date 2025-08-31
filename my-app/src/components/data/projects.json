@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "Ezee-Blitz (E-Commerce platform)",
+    "imageSrc": "../../assets/project/ezee.png",
+    "description": "This is a project made with complete HTML, CSS, Bootstrap,JavaScript, React Toolkit.",
+    "demo": "https://ezee-blitz.netlify.app/",
+    "source": "https://github.com/Rajendra93971/Ezee-blitz"
+  },
+  {
+    "key": 2,
+    "title": "E-Mart Stock Management System",
+    "imageSrc": "../../assets/project/emart.png",
+    "description": "This is a project made with complete Java, JDBC, MySQL.",
+    "demo": "https://app.netlify.com/teams/rajputrajendra929/projects",
+    "source": "https://github.com/Rajendra93971/E-Mart"
+  },
+  {
+    "key": 3,
+    "title": "RajTechWeb Portfolo",
+    "imageSrc": "../../assets/project/rajtechweb.png",
+    "description": "This is a project made with complete HTML, CSS, JavaScript, ReactJS.",
+    "demo": "https://rajtechweb.netlify.app/",
+    "source": "https://github.com/Rajendra93971/rajtechweb"
+  },
+  {
+    "key": 4,
+    "title": "Film Fusion",
+    "imageSrc": "../../assets/project/filmfusion.png",
+    "description": "This is a project made with complete JavaScript.",
+    "demo": "https://filmfusion2.netlify.app/",
+    "source": "https://github.com/Rajendra93971/Flim_fusion"
+  },
+  {
+    "key": 5,
+    "title": "Game-Rock Paper Scissors ",
+    "imageSrc": "../../assets/project/rps.png",
+    "description": "This is a project made with complete JavaScript.",
+    "demo": "https://game2-0.netlify.app/",
+    "source": "https://github.com/Rajendra93971/game"
+  }
+]
