@@ -23,7 +23,6 @@ Built with cutting-edge web technologies, this project showcases a clean UI, eff
 ```bash
 RajTechWeb/
 │── frontend/       # ReactJS frontend code
-│── backend/        # Express.js backend code
 │── public/         # Static assets
 │── package.json    # Project dependencies
 │── README.md       # Project documentation
